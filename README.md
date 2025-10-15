@@ -1,11 +1,11 @@
-# [🏋️‍♂️ Projeto Fitness - Localizador de Espaços Recreativos](https://fitness-local-project.onrender.com/)
+# [🏋️‍♂️ Projeto Fitness - Localizador de Espaços Recreativos]
 
 [![Node.js](https://img.shields.io/badge/Node.js-23.x-339933?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-000000?logo=express&logoColor=white)](https://expressjs.com)
 [![SQLite](https://img.shields.io/badge/SQLite-3.x-003B57?logo=sqlite&logoColor=white)](https://sqlite.org)
 [![JWT](https://img.shields.io/badge/JWT-Autenticação-000000?logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 
-> **Aplicação full-stack para localização de parques e espaços recreativos no Brasil, implementada com arquitetura moderna, segurança enterprise e otimizações de performance.**
+> **Aplicação full-stack para localização de parques e espaços recreativos no Brasil, implementada com arquitetura moderna, segurança enterprise e otimizações de performance feita em grupo**
 
 ## 🏗️ Arquitetura Técnica
 
@@ -454,4 +454,3 @@ npm run lint       # Verificação de código
 npm run format     # Formatação automática
 ```
 
-**Autor**: [GuestAUser](https://github.com/GuestAUser) | **Licença**: GuestAUser Public License v1.0
